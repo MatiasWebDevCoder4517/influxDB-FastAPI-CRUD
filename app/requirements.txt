@@ -1,0 +1,8 @@
+aiofiles
+fastapi
+httpx
+influxdb-client
+pydantic
+PyMySQL
+sqlmodel
+uvicorn

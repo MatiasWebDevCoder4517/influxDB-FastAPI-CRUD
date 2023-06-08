@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.pyenv/
+poetry.lock
+pip-wheel-metadata/
+.idea/
+.vscode/
+
+# Dependency directories
+lib/
+libs/
+library/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Tests
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# IDEs
+*.sublime-project
+*.sublime-workspace
+.vs/
+
+# Logs and databases
+logs/
+*.log
+*.db
+*.sqlite3
+
+# Configuration files
+*.ini
+*.cfg
+*.conf
+*.env
+*.xlsx
+.env.local
+
+# Compiled files
+*.dll
+*.exe
+*.class
+*.o
+
+# Misc
+*.swp
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Files
